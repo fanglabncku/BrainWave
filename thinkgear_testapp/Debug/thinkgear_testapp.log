@@ -1,0 +1,50 @@
+﻿  thinkgear_testapp.c
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(154): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(155): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(225): warning C4244: '=': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(227): warning C4013: 'strcpy' 未定義; 假設 extern 傳回整數
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(232): warning C4244: '=': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(241): warning C4013: 'strcmp' 未定義; 假設 extern 傳回整數
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(62): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(168): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(206): warning C4477: 'sprintf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'time_t'
+  c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(206): note: 請考慮在格式字串中使用 '%lld'
+  c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(206): note: 請考慮在格式字串中使用 '%I64d'
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(206): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 請參閱 'sprintf' 的宣告
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(207): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(226): warning C4477: 'sprintf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'time_t'
+  c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(226): note: 請考慮在格式字串中使用 '%lld'
+  c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(226): note: 請考慮在格式字串中使用 '%I64d'
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(226): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 請參閱 'sprintf' 的宣告
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(233): warning C4477: 'sprintf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'time_t'
+  c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(233): note: 請考慮在格式字串中使用 '%lld'
+  c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(233): note: 請考慮在格式字串中使用 '%I64d'
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(233): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 請參閱 'sprintf' 的宣告
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(243): warning C4477: 'sprintf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'time_t'
+  c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(243): note: 請考慮在格式字串中使用 '%lld'
+  c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(243): note: 請考慮在格式字串中使用 '%I64d'
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(243): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 請參閱 'sprintf' 的宣告
+c:\users\princ\desktop\2018 醫工營\腦波小車\brainwave\brainwave program\thinkgear_testapp\thinkgear_testapp.c(254): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+thinkgear_testapp.obj : error LNK2019: 無法解析的外部符號 _TG_GetVersion 在函式 _main 中被參考
+thinkgear_testapp.obj : error LNK2019: 無法解析的外部符號 _TG_GetNewConnectionId 在函式 _main 中被參考
+thinkgear_testapp.obj : error LNK2019: 無法解析的外部符號 _TG_SetStreamLog 在函式 _main 中被參考
+thinkgear_testapp.obj : error LNK2019: 無法解析的外部符號 _TG_SetDataLog 在函式 _main 中被參考
+thinkgear_testapp.obj : error LNK2019: 無法解析的外部符號 _TG_Connect 在函式 _main 中被參考
+thinkgear_testapp.obj : error LNK2019: 無法解析的外部符號 _TG_ReadPackets 在函式 _main 中被參考
+thinkgear_testapp.obj : error LNK2019: 無法解析的外部符號 _TG_GetValueStatus 在函式 _main 中被參考
+thinkgear_testapp.obj : error LNK2019: 無法解析的外部符號 _TG_GetValue 在函式 _main 中被參考
+thinkgear_testapp.obj : error LNK2019: 無法解析的外部符號 _MWM15_getFilterType 在函式 _main 中被參考
+thinkgear_testapp.obj : error LNK2019: 無法解析的外部符號 _MWM15_setFilterType 在函式 _main 中被參考
+thinkgear_testapp.obj : error LNK2019: 無法解析的外部符號 _TG_EnableAutoRead 在函式 _main 中被參考
+thinkgear_testapp.obj : error LNK2019: 無法解析的外部符號 _TG_Disconnect 在函式 _main 中被參考
+thinkgear_testapp.obj : error LNK2019: 無法解析的外部符號 _TG_FreeConnection 在函式 _main 中被參考
+thinkgear64.lib : warning LNK4272: 程式庫電腦類型 'x64' 與目標電腦類型 'x86' 發生衝突
+C:\Users\princ\Desktop\2018 醫工營\腦波小車\brainWave\brainWave program\Debug\thinkgear_testapp.exe : fatal error LNK1120: 13 個無法解析的外部符號
